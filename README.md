@@ -1,6 +1,6 @@
 # Hey there👋, Welcome to my Github Profile
 
-<h2 align="center">Hey there!! Welcome to my profile..</h2>
+<h2 align="center">I'm Disha D</h2>
 
 ###
 
