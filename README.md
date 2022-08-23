@@ -1,6 +1,6 @@
 # Hey there👋, Welcome to my Github Profile
 
-<h2 align="center">I'm Disha D</h2>
+<h1 align="left">I'm Disha D</h1>
 
 ###
 
@@ -76,6 +76,3 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DIsha-D.DIsha-D&left_color=darkmagenta&right_color=darkgray"  />
 </div>
-
-###
-Profile Readme Generator
