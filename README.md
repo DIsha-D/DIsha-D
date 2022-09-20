@@ -5,13 +5,10 @@
 ###
 
 <div align="center">
-  <img height="210" src="https://camo.githubusercontent.com/5a191a6729f1a961e475c769fe8968b4c4850c04be6be2b1cf21744c04f4b3f5/68747470733a2f2f692e696d6775722e636f6d2f626c32587234382e706e67"  />
+  <img height="300" src="octocat-1663693419035.png"  />
 </div>
 
 ###
-
-
-<br clear="both">
 <h2 align="left">My skills</h2>
 
 <div align="center">
