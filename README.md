@@ -46,7 +46,7 @@
 
 <br/>
 
-<a href="https://github.com/DIsha-D/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DIsha-D&bg_color=000000&color=32CD32&line=32CD32&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/DIsha-D/github-readme-activity-graph"><img alt="Disha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DIsha-D&bg_color=000000&color=32CD32&line=32CD32&point=FFFFFF&hide_border=true" /></a>
 
 
 ###
