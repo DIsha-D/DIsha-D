@@ -46,8 +46,7 @@
 
 <br/>
 
-[![Disha's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DIsha-D)](https://github.com/DIsha-D/github-readme-activity-graph)
-
+[![Disha's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DIsha-D&theme=merko&hide_border=true)](https://github.com/DIsha-D/github-readme-activity-graph)
 
 ###
 
