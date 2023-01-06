@@ -46,7 +46,7 @@
 
 <br/>
 
-<a href="https://github.com/DIsha-D/github-readme-activity-graph"><img alt="Disha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DIsha-D&bg_color=000000&color=32CD32&line=32CD32&point=FFFFFF&hide_border=true" /></a>
+[![Disha's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DIsha-D)](https://github.com/DIsha-D/github-readme-activity-graph)
 
 
 ###
