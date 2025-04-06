@@ -30,8 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" width="42" alt="slack logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
   <img src="https://www.testrail.com/wp-content/uploads/2022/12/TestRail_Logo_Main_01.svg" height="30" width="42" alt="TestRail logo" />
-   <img src="https://bloorresearch.com/wp-content/uploads/2021/11/testim-logo.png" height="30" width="42" alt="TestIM logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/1200px-Jira_Logo.svg.png" height="30" width="42" alt="JIRA logo" />
+  <img src="https://bloorresearch.com/wp-content/uploads/2021/11/testim-logo.png" height="30" width="42" alt="TestIM logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/1200px-Jira_Logo.svg.png" height="25" width="42" alt="JIRA logo" />
   <img src="https://catchsoftware.com/wp-content/uploads/2024/01/confluence-tile.png" height="30" width="42" alt="Confluence logo" />
 </div>
 
